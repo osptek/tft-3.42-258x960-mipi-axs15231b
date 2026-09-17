@@ -6,6 +6,7 @@ panel: tft
 resolution: 258x960
 interface: [mipi]
 shape: rect
+corner: sharp
 
 versions:
   - id: YDP342B001-V13
