@@ -5,7 +5,7 @@ size: "3.42"
 panel: tft
 resolution: 258x960
 interface: [mipi]
-shape: bar
+shape: rect
 
 versions:
   - id: YDP342B001-V13
